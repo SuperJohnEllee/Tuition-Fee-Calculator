@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.exe.config
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.exe
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.pdb
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition_Fee_Calculator.Form1.resources
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition_Fee_Calculator.Properties.Resources.resources
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.exe
+C:\Users\PC\Desktop\John Ellee\C# Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.pdb
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.exe.config
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.exe
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.pdb
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.exe
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\bin\Debug\Tuition Fee Calculator.pdb
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition_Fee_Calculator.Form1.resources
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition_Fee_Calculator.Properties.Resources.resources
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\Tuition Fee Calculator\Tuition Fee Calculator\obj\Debug\Tuition Fee Calculator.csproj.GenerateResource.Cache
